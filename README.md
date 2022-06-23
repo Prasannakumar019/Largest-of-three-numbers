@@ -1,4 +1,6 @@
-# Largest-of-three-numbers
+## EX NO:01
+## DATE:30.03.22
+# <p align="center">Largest-of-three-numbers
 ## Aim:
 To find the largest of three numbers
 ## Algorithm:
@@ -54,7 +56,7 @@ public class Exercise8
 ```
 
 ## Output:
-![Screenshot from 2022-04-13 04-10-42](https://user-images.githubusercontent.com/75235090/163098831-43226b0f-c1d9-4140-bb9a-647c489617bc.png)
+![image](https://user-images.githubusercontent.com/75235090/175272082-937d7e00-b051-4146-aec2-9aeecee0f39d.png)
 
 ## Result:
-Thusthe largest of three numbers is found using C#
+Thus,the largest of three numbers is found using C#
